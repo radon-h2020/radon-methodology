@@ -87,7 +87,7 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
-| **Video**| video link |
+| **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
@@ -99,7 +99,7 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
-| **Video**| video link |
+| **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
@@ -111,7 +111,7 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
-| **Video**| video link |
+| **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
@@ -123,7 +123,7 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
-| **Video**| video link |
+| **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
@@ -135,7 +135,7 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
-| **Video**| video link |
+| **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
@@ -147,7 +147,7 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
-| **Video**| video link |
+| **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
@@ -159,7 +159,7 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
-| **Video**| video link |
+| **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
@@ -171,7 +171,7 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
-| **Video**| video link |
+| **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
@@ -183,7 +183,7 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
-| **Video**| video link |
+| **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |

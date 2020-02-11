@@ -71,8 +71,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | The Defect Prediction tool  focuses on Infrastructure-as-Code (IaC) correctness. Recall that IaC is machine-readable code that manages and provisions infrastructure -- e.g., TOSCA or Ansible YAML files. The defect prediction tool helps RADON users to find suspicious defective Infrastructure-as-Code (IaC) scripts enabling DevOps operators to focus on such critical scripts before deployment and during Quality Assurance activities. 
-| 
+| **Short Description** | The Defect Prediction tool  focuses on Infrastructure-as-Code (IaC) correctness. Recall that IaC is machine-readable code that manages and provisions infrastructure -- e.g., TOSCA or Ansible YAML files. The defect prediction tool helps RADON users to find suspicious defective Infrastructure-as-Code (IaC) scripts enabling DevOps operators to focus on such critical scripts before deployment and during Quality Assurance activities. | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| https://tinyurl.com/wz55hbm |
@@ -85,8 +84,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description
-| 
+| **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| video link |
@@ -98,8 +96,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description
-| 
+| **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| video link |
@@ -111,22 +108,19 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description
-| 
+| **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| video link |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
-
 
 ## Orchestrator
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description
-| 
+| **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| video link |
@@ -134,13 +128,11 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
 
-
 ## Data Pipeline Plugins
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description
-| 
+| **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| video link |
@@ -152,8 +144,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description
-| 
+| **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| video link |
@@ -165,8 +156,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description
-| 
+| **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| video link |
@@ -178,8 +168,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description
-| 
+| **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| video link |
@@ -191,8 +180,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description
-| 
+| **Short Description** | Description | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| video link |

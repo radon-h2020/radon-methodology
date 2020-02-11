@@ -35,35 +35,11 @@ For more information on RADON actors, please refer to the deliverable document [
 
 The RADON DevOps methodology consolidates the user workflow for using RADON tools and the DevOps paradigm for software delivery and evolution. In the context of a DevOps lifecycle, we have defined several workflows as abstractions to organize and present the possible interactions of the different tools within the RADON framework and with the identified actors. DevOps actors as described above are fundamental to reason about the existing development and operations roles and re-assign them for the continuous delivery of software in the context of RADON. 
 
-Furthermore, the defined workflows help understand and further refine the application development lifecycle with the RADON framework, considered as an iterative process involving Design, Development (Deployment) and Runtime.  The defined workflows are described below.
+Furthermore, the defined workflows help understand and further refine the application development lifecycle with the RADON framework, considered as an iterative process involving Design, Development (Deployment) and Runtime.  The defined workflows will be described below.
 
-## Verification Workflow
+## RADON Workflows
 
-Verification of the application models. Involved tools are Graphical Modelling tool, Constraint Definition Language and the Verification Tool.
-
-## Decompositon Workflow
-
-Decomposition of functionality in microservices/FaaS. Involved tools are Graphical Modelling tool and Decomposition tool, and the Template Library.
-
-
-## Defect Prediction Workflow
-
-Defect Prediction of the infrastructure code. Involved tools are the IDE and Defect Prediction tool.
-
-## Continuous Testing Workflow
-
-Continuous Testing of the performance and integration of components. Involved tools are the IDE, Continuous Testing tool and Monitoring tool.
-
-## CI/CD Workflow
-
-CI/CD to automate the deployment of a RADON application. Involved tools are the Orchestrator, CI/CD pipeline, and Monitoring tool.
-
-## Monitoring Workflow
-
-Monitoring of simple metrics to provide feedback for refining the deployment. Involved tools are the Orchestrator and Monitoring tool.
-
-For more information about RADON workflows please refer to the deliverable document 
-[D2.3 – Architecture & Integration Plan I](http://radon-h2020.eu/wp-content/uploads/2019/11/D2-3_Architecture-and-integration-plan-I.pdf)
+WIP
 
 # RADON Tools
 
@@ -84,7 +60,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description | 
+| **Short Description** | The decomposition tool is present to help RADON users in finding the optimal decomposition solution for an application based on the microservices architectural style and the serverless FaaS paradigm. It supports three typical usage scenarios: (1) architecture decomposition, (2) deployment optimization, (3) accuracy enhancement. | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
@@ -92,23 +68,36 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
 
-## CDL and Verification Tool
+## Constraint Definition Language
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description | 
+| **Short Description** | The Constraint Definition Language (CDL) provides functionality for the user to define CDL specifications, the space of potential extensions to the current RADON model, and the examples used by the Verification Tool (VT) for learning new constraints. | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
+
+
+## Verification Tool
+
+| Items | Contents | 
+| --- | --- |
+| **Short Description** | The Verification Tool (VT) provides the functionality for verifying that the current RADON model conforms to the CDL specification defined by the CDL tool. The VT will be available as a plugin in the IDE, and will be supported by a “VT backend”, which will run in a container. In cases where the current RADON model does not conform to the CDL specification, the VT can be used to suggest corrections to the model. If the model does conform, the VT can be used to suggest improvements to it with respect to the preferences expressed as soft constraints in the CDL specification. The VT can also be used to find an optimal (preferred) completion of a partial RADON model, with respect to the CDL specification, and to learn new constraints for the CDL. | 
+| **Documentation** | WIP |
+| **Stand-Alone Tutorial** | WIP | 
+| **Video**| WIP |
+| **Source code** | WIP |
+| **Licence**| License |
+| **Contact**| <ul><li>Contact (name@mail)</li></ul>
 
 ## Continuous Testing Tool
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description | 
+| **Short Description** | The Continuous Testing Tool (CTT) provides the functionality for defining, generating, executing, and refining continuous tests of application functions, data pipelines and microservices, as well as for reporting test results. While targeting to provide a general framework for continuous quality testing in RADON, a particular focus of CTT is on testing workload-related quality attributes such as performance, elasticity, and resource/cost efficiency.  | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
@@ -120,7 +109,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description | 
+| **Short Description** | The orchestrator puts the application into the runtime environment, enforcing the state described by application blueprint (CSAR) onto the targeted provider(s). The common operations are deployment, scaling and cleanup or un-deploy and are executed on different target environment as staging, development and production.  | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
@@ -132,7 +121,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description | 
+| **Short Description** | A module that extends the orchestrator with the capability to control the life cycle of data pipelines, introducing the ability to automate the movement and transformation of data.| 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
@@ -144,7 +133,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description | 
+| **Short Description** | The RADON IDE is based on Eclipse Che, and provides standard functionalities to support development activities (e.g. debugging functionalities and error checking capabilities) along with specific functionalities to achieve the RADON needs. It provides a shared space where different teams can access the RADON artifacts according to their authorizations and an access point for the interactions with the tools involved in the RADON architecture. | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
@@ -156,7 +145,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description | 
+| **Short Description** | The template library is a repository of application runtime management definitions including the blueprints, high-level system abstractions, application abstractions (including data pipeline components) and TOSCA language extensions. One of the specific parts of Template Library is the FaaS abstraction layer that holds the definitions required to deploy a particular application component to different cloud providers. | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
@@ -168,7 +157,7 @@ For more information about RADON workflows please refer to the deliverable docum
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description | 
+| **Short Description** | The Graphical Modeling Tool (GMT) is developed based on Eclipse Winery, which is a web-based environment to graphically model TOSCA-based application topologies. It includes (i) a component to manage TOSCA types and templates, (ii) a Topology Modeler that enables to graphically compose application topologies and specify configuration properties, and (iii) a file-based backend to store, import, and export TOSCA entities. | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
@@ -176,11 +165,11 @@ For more information about RADON workflows please refer to the deliverable docum
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
 
-## Monitoring System
+## Delivery Toolchain
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | Description | 
+| **Short Description** | The delivery toolchain is a set of tools configured at one place with one goal - to deliver the application to the production site. To achieve the final step, delivery, with a success, a set of previous steps needs to be successfully accomplished. Delivery toolchain provides the single point of configuration management including CI/CD, monitoring and orchestration. | 
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |

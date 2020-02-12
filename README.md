@@ -98,12 +98,12 @@ WIP
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The Continuous Testing Tool (CTT) provides the functionality for defining, generating, executing, and refining continuous tests of application functions, data pipelines and microservices, as well as for reporting test results. While targeting to provide a general framework for continuous quality testing in RADON, a particular focus of CTT is on testing workload-related quality attributes such as performance, elasticity, and resource/cost efficiency.  | 
-| **Documentation** | WIP |
+| **Documentation** | [D2.3 – Architecture & Integration Plan I](http://radon-h2020.eu/wp-content/uploads/2019/11/D2-3_Architecture-and-integration-plan-I.pdf) |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | WIP |
-| **Licence**| License |
-| **Contact**| <ul><li>Contact (name@mail)</li></ul> |
+| **Source code** | https://github.com/radon-h2020/radon-ctt |
+| **Licence**| [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0)  |
+| **Contact**| <ul><li>Thomas F. Düllmann ([@duelle](https://github.com/duelle)) </li><li>Andre van Hoorn ([@avanhoorn](https://github.com/avanhoorn)) </li></ul> |
 
 ## Orchestrator
 

@@ -66,7 +66,7 @@ WIP
 | **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
-| **Contact**| <ul><li>Contact (name@mail)</li></ul> |
+| **Contact**| <ul><li>Lulai Zhu (lulai.zhu15@imperial.ac.uk)</li><li>Giuliano Casale (g.casale@imperial.ac.uk)</li></ul> |
 
 ## Constraint Definition Language
 
@@ -78,7 +78,7 @@ WIP
 | **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
-| **Contact**| <ul><li>Contact (name@mail)</li></ul> |
+| **Contact**| <ul><li>Mark Law (mark.law09@imperial.ac.uk)</li><li>Alessandra Russo (a.russo@imperial.ac.uk)</li></ul> |
 
 
 ## Verification Tool
@@ -91,7 +91,7 @@ WIP
 | **Video**| WIP |
 | **Source code** | WIP |
 | **Licence**| License |
-| **Contact**| <ul><li>Contact (name@mail)</li></ul>
+| **Contact**| <ul><li>Mark Law (mark.law09@imperial.ac.uk)</li><li>Alessandra Russo (a.russo@imperial.ac.uk)</li></ul> |
 
 ## Continuous Testing Tool
 

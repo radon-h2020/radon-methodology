@@ -51,7 +51,7 @@ WIP
 | **Documentation** | WIP -- [D2.3 – Architecture & Integration Plan I](http://radon-h2020.eu/wp-content/uploads/2019/11/D2-3_Architecture-and-integration-plan-I.pdf) |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | WIP |
+| **Repository** | WIP |
 | **Licence**| Apache License, Version 2.0 |
 | **Contact**| <ul><li>Damian A. Tamburri (d.a.tamburri@tue.nl)</li></ul> |
 
@@ -64,7 +64,7 @@ WIP
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | WIP |
+| **Repository** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Lulai Zhu (lulai.zhu15@imperial.ac.uk)</li><li>Giuliano Casale (g.casale@imperial.ac.uk)</li></ul> |
 
@@ -76,7 +76,7 @@ WIP
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | WIP |
+| **Repository** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Mark Law (mark.law09@imperial.ac.uk)</li><li>Alessandra Russo (a.russo@imperial.ac.uk)</li></ul> |
 
@@ -89,7 +89,7 @@ WIP
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | WIP |
+| **Repository** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Mark Law (mark.law09@imperial.ac.uk)</li><li>Alessandra Russo (a.russo@imperial.ac.uk)</li></ul> |
 
@@ -101,7 +101,7 @@ WIP
 | **Documentation** | [D2.3 – Architecture & Integration Plan I](http://radon-h2020.eu/wp-content/uploads/2019/11/D2-3_Architecture-and-integration-plan-I.pdf) |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | https://github.com/radon-h2020/radon-ctt |
+| **Repository** | https://github.com/radon-h2020/radon-ctt |
 | **Licence**| [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0)  |
 | **Contact**| <ul><li>Thomas F. Düllmann ([@duelle](https://github.com/duelle)) </li><li>Andre van Hoorn ([@avanhoorn](https://github.com/avanhoorn)) </li></ul> |
 
@@ -113,7 +113,7 @@ WIP
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | WIP |
+| **Repository** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
 
@@ -125,7 +125,7 @@ WIP
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | WIP |
+| **Repository** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
 
@@ -137,7 +137,7 @@ WIP
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | WIP |
+| **Repository** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
 
@@ -149,7 +149,7 @@ WIP
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | WIP |
+| **Repository** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |
 
@@ -161,7 +161,7 @@ WIP
 | **Documentation** | DELIVERABLE [4.5](http://radon-h2020.eu/wp-content/uploads/2020/01/D4.5-Graphical-Modelling-Tools.pdf) and [4.3](http://radon-h2020.eu/wp-content/uploads/2019/11/D4.3-RADON-Models-I.pdf) |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | <https://github.com/radon-h2020/winery> |
+| **Repository** | <https://github.com/radon-h2020/winery> |
 | **Licence**| Dual licensed under the Apache License 2.0 and Eclipse Public License 2.0. |
 | **Contact**| <ul><li>Michael Wurster (wurster@iaas.uni-stuttgart.de)</li><li>Vladimir Yussupov (yussupov@iaas.uni-stuttgart.de)</li></ul> |
 
@@ -173,6 +173,6 @@ WIP
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Source code** | WIP |
+| **Repository** | WIP |
 | **Licence**| License |
 | **Contact**| <ul><li>Contact (name@mail)</li></ul> |

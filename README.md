@@ -158,7 +158,7 @@ WIP
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The Graphical Modeling Tool (GMT) is developed based on Eclipse Winery, which is a web-based environment to graphically model TOSCA-based application topologies. It includes (i) a component to manage TOSCA types and templates, (ii) a Topology Modeler that enables to graphically compose application topologies and specify configuration properties, and (iii) a file-based backend to store, import, and export TOSCA entities. | 
-| **Documentation** | DELIVERABLE [4.5](http://radon-h2020.eu/wp-content/uploads/2020/01/D4.5-Graphical-Modelling-Tools.pdf) and [4.3](http://radon-h2020.eu/wp-content/uploads/2019/11/D4.3-RADON-Models-I.pdf) |
+| **Documentation** | RADON Deliverables [D4.5](http://radon-h2020.eu/wp-content/uploads/2020/01/D4.5-Graphical-Modelling-Tools.pdf) and [D4.3](http://radon-h2020.eu/wp-content/uploads/2019/11/D4.3-RADON-Models-I.pdf) |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
 | **Repository** | <https://github.com/radon-h2020/winery> |

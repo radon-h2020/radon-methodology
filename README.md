@@ -51,9 +51,9 @@ WIP
 | **Documentation** | WIP -- [D2.3 – Architecture & Integration Plan I](http://radon-h2020.eu/wp-content/uploads/2019/11/D2-3_Architecture-and-integration-plan-I.pdf) |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Repository** | WIP |
+| **Repository** |[APIs](https://github.com/radon-h2020/radon-defect-prediction-api); [Web Application](https://github.com/radon-h2020/radon-defect-prediction-web) |
 | **Licence**| Apache License, Version 2.0 |
-| **Contact**| <ul><li>Damian A. Tamburri (d.a.tamburri@tue.nl)</li></ul> |
+| **Contact**| <ul><li>Damian A. Tamburri (d.a.tamburri@tue.nl)</li><li>Stefano Dalla Palma (s.dalla.palma@jads.nl)</li></ul> |
 
 ## Decomposition Tool
 

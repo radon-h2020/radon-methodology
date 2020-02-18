@@ -113,9 +113,9 @@ WIP
 | **Documentation** | WIP |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
-| **Repository** | WIP |
-| **Licence**| License |
-| **Contact**| <ul><li>Contact (name@mail)</li></ul> |
+| **Repository** | https://github.com/radon-h2020/xopera-opera |
+| **Licence**|  [Apache License, Version 2.0](https://github.com/radon-h2020/xopera-opera/blob/master/LICENSE) |
+| **Contact**| <ul><li>Matija Cankar [@cankarm](https://github.com/cankarm)</li></ul> |
 
 ## Data Pipeline Plugins
 

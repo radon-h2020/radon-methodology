@@ -115,7 +115,7 @@ WIP
 | **Video**| WIP |
 | **Repository** | https://github.com/radon-h2020/xopera-opera |
 | **Licence**|  [Apache License, Version 2.0](https://github.com/radon-h2020/xopera-opera/blob/master/LICENSE) |
-| **Contact**| <ul><li>Matija Cankar [@cankarm](https://github.com/cankarm)</li></ul> |
+| **Contact**| <ul><li>Matija Cankar ([@cankarm](https://github.com/cankarm))</li></ul> |
 
 ## Data Pipeline Plugins
 
@@ -151,7 +151,7 @@ WIP
 | **Video**| WIP |
 | **Repository** | WIP |
 | **Licence**| License |
-| **Contact**| <ul><li>Matija Cankar [@cankarm](https://github.com/cankarm)</li></ul>  |
+| **Contact**| <ul><li>Matija Cankar ([@cankarm](https://github.com/cankarm))</li></ul>  |
 
 ## Graphical Modeling Tool (Eclipse Winery)
 
@@ -175,4 +175,4 @@ WIP
 | **Video**| WIP |
 | **Repository** | WIP |
 | **Licence**|  Apache License, Version 2.0 |
-| **Contact**| <ul><li>Matija Cankar [@cankarm](https://github.com/cankarm)</li></ul> |
+| **Contact**| <ul><li>Matija Cankar ([@cankarm](https://github.com/cankarm))</li></ul> |

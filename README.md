@@ -122,12 +122,12 @@ WIP
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | A module that extends the orchestrator with the capability to control the life cycle of data pipelines, introducing the ability to automate the movement and transformation of data.| 
-| **Documentation** | WIP |
-| **Stand-Alone Tutorial** | WIP | 
+| **Documentation** | WIP, [D5.5: Data Pipeline Orchestration I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.5-Data-Pipeline-Orchestration-I.pdf) |
+| **Stand-Alone Tutorial** | WIP, [RADON Toy example-datapipeline demo](https://github.com/radon-h2020/demo-lambda-thumbgen-tosca-datapipeline) | 
 | **Video**| WIP |
 | **Repository** | WIP |
-| **Licence**| License |
-| **Contact**| <ul><li>Contact (name@mail)</li></ul> |
+| **Licence**| [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0) |
+| **Contact**| <ul><li>Chinmaya Dehury [chinmaya.dehury@ut.ee](chinmaya.dehury@ut.ee)</li><li>Pelle Jakovits [pelle.jakovitsh@ut.ee](pelle.jakovitsh@ut.ee)</li><li>Satish Srirama [Satish Srirama](satish.srirama@ut.ee)</li></ul> |
 
 ## Integrated Development Environment
 

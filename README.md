@@ -139,7 +139,7 @@ WIP
 | **Video**| WIP |
 | **Repository** | WIP |
 | **Licence**| License |
-| **Contact**| <ul><li>Contact (name@mail)</li></ul> |
+| **Contact**| <ul><li>Stefania D'Agostini (stefania.dagostini@eng.it)</li></ul> |
 
 ## Template Library
 

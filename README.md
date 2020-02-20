@@ -66,7 +66,7 @@ WIP
 | **Video**| WIP |
 | **Repository** | WIP |
 | **Licence**| License |
-| **Contact**| <ul><li>Lulai Zhu (lulai.zhu15@imperial.ac.uk)</li><li>Giuliano Casale (g.casale@imperial.ac.uk)</li></ul> |
+| **Contact**| <ul><li>Lulai Zhu ([@zhululai](https://github.com/zhululai))</li><li>Giuliano Casale ([@gcasale](https://github.com/gcasale))</li></ul> |
 
 ## Constraint Definition Language
 

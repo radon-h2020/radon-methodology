@@ -37,10 +37,6 @@ The RADON DevOps methodology consolidates the user workflow for using RADON tool
 
 Furthermore, the defined workflows help understand and further refine the application development lifecycle with the RADON framework, considered as an iterative process involving Design, Development (Deployment) and Runtime.  The defined workflows will be described below.
 
-## RADON Workflows
-
-WIP
-
 # RADON Tools
 
 ## Defect Prediction Tool

@@ -1,5 +1,7 @@
 This repository acts as a knowledge base related to the RADON methodology, containing an overview and links to the RADON architecture, tools, actors and methodology.
 
+Please check out the [RADON YouTube channel](https://www.youtube.com/channel/UCgoXX6JZ6bDqTxVBRm4KWnQ/videos) for videos!
+
 # Table of Contents
 * [RADON Architecture](#radon-architecture)
 * [RADON Actors and Stakeholders](#radon-actors-and-stakeholders)

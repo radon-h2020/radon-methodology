@@ -156,10 +156,10 @@ Furthermore, the defined workflows help understand and further refine the applic
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The Graphical Modeling Tool (GMT) is developed based on Eclipse Winery, which is a web-based environment to graphically model TOSCA-based application topologies. It includes (i) a component to manage TOSCA types and templates, (ii) a Topology Modeler that enables to graphically compose application topologies and specify configuration properties, and (iii) a file-based backend to store, import, and export TOSCA entities. | 
-| **Documentation** | [Wiki](https://github.com/radon-h2020/winery/wiki); RADON Deliverables: [D4.5](http://radon-h2020.eu/wp-content/uploads/2020/01/D4.5-Graphical-Modelling-Tools.pdf), [D4.3](http://radon-h2020.eu/wp-content/uploads/2019/11/D4.3-RADON-Models-I.pdf) |
-| **Stand-Alone Tutorial** | WIP | 
-| **Video**| WIP |
-| **Repository** | <https://github.com/radon-h2020/winery> |
+| **Documentation** | [User Guide](https://eclipse-winery.readthedocs.io/) / RADON Deliverables: [D4.5](http://radon-h2020.eu/wp-content/uploads/2020/01/D4.5-Graphical-Modelling-Tools.pdf), [D4.3](http://radon-h2020.eu/wp-content/uploads/2019/11/D4.3-RADON-Models-I.pdf) |
+| **Stand-Alone Tutorial** | [Getting Started](https://eclipse-winery.readthedocs.io/en/latest/user/getting-started.html)  | 
+| **Video**| [Link](https://youtu.be/xEjarBWcdK0?t=81) |
+| **Repository** | <https://github.com/radon-h2020/winery> (fork) / <https://github.com/eclipse/winery> |
 | **Licence**| Dual licensed under the Apache License 2.0 and Eclipse Public License 2.0. |
 | **Contact**| <ul><li>Michael Wurster (@miwurster, wurster@iaas.uni-stuttgart.de)</li><li>Vladimir Yussupov (yussupov@iaas.uni-stuttgart.de)</li></ul> |
 

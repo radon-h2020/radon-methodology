@@ -132,10 +132,10 @@ Furthermore, the defined workflows help understand and further refine the applic
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The template library is a repository of application runtime management definitions including the blueprints, high-level system abstractions, application abstractions (including data pipeline components) and TOSCA language extensions. One of the specific parts of Template Library is the FaaS abstraction layer that holds the definitions required to deploy a particular application component to different cloud providers. | 
-| **Documentation** | WIP |
-| **Stand-Alone Tutorial** | WIP | 
+| **Documentation** | https://template-library-radon.xlab.si |
+| **Stand-Alone Tutorial** | https://template-library-radon.xlab.si/examples.html | 
 | **Video**| WIP |
-| **Repository** | WIP |
+| **Repository** | https://pypi.org/project/xopera-template-library/ |
 | **Licence**| License |
 | **Contact**| <ul><li>Matija Cankar ([@cankarm](https://github.com/cankarm))</li></ul>  |
 

@@ -99,7 +99,7 @@ Furthermore, the defined workflows help understand and further refine the applic
 | **Documentation** | [D2.3 – Architecture & Integration Plan I](http://radon-h2020.eu/wp-content/uploads/2019/11/D2-3_Architecture-and-integration-plan-I.pdf) |
 | **Stand-Alone Tutorial** | https://continuous-testing-tool.readthedocs.io/ |
 | **Video**| https://youtu.be/35VN2edyvsc |
-| **Source code** | <ul><li>https://github.com/radon-h2020/radon-ctt<li><li>https://github.com/radon-h2020/radon-ctt-agent</li></ul> |
+| **Source code** | <ul><li>https://github.com/radon-h2020/radon-ctt (CTT Server)</li><li>https://github.com/radon-h2020/radon-ctt-agent (CTT Agent)</li><li>https://github.com/radon-h2020/radon-particles (Includes CTT-related types)</li></ul> |
 | **Licence**| [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0) |
 | **Contact**| <ul><li>Thomas F. Düllmann ([@duelle](https://github.com/duelle)) </li><li>Andre van Hoorn ([@avanhoorn](https://github.com/avanhoorn)) </li></ul> |
 

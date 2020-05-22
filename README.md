@@ -96,9 +96,9 @@ Furthermore, the defined workflows help understand and further refine the applic
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The orchestrator puts the application into the runtime environment, enforcing the state described by application blueprint (CSAR) onto the targeted provider(s). The common operations are deployment, scaling and cleanup or un-deploy and are executed on different target environment as staging, development and production.  | 
-| **Documentation** | WIP |
-| **Stand-Alone Tutorial** | WIP | 
-| **Video**| WIP |
+| **Documentation** | https://xlab-si.github.io/xopera-docs/ |
+| **Stand-Alone Tutorial** | https://xlab-si.github.io/xopera-docs/examples.html | 
+| **Video**| https://www.youtube.com/watch?v=cb1efi3wnpw |
 | **Repository** | https://github.com/radon-h2020/xopera-opera |
 | **Licence**|  [Apache License, Version 2.0](https://github.com/radon-h2020/xopera-opera/blob/master/LICENSE) |
 | **Contact**| <ul><li>Matija Cankar ([@cankarm](https://github.com/cankarm))</li></ul> |

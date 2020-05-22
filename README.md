@@ -113,7 +113,7 @@ Furthermore, the defined workflows help understand and further refine the applic
 | **Video**| https://www.youtube.com/watch?v=_6zTEj2ZJ54 |
 | **Repository** | <ul><li>https://github.com/radon-h2020/radon-datapipeline-plugin (Data pipeline plugin)</li><li>https://github.com/radon-h2020/demo-lambda-thumbgen-tosca-datapipeline (Data pipeline demo)</li></ul> |
 | **Licence**| [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0) |
-| **Contact**| <ul><li>Chinmaya Dehury ([@chinmaya-dehury](https://github.com/cankarm)) </li><li>Pelle Jakovits ([@pjakovits](https://github.com/cankarm))</li><li>Satish Srirama [Satish Srirama](satish.srirama@ut.ee)</li></ul> |
+| **Contact**| <ul><li>Chinmaya Dehury ([@chinmaya-dehury](https://github.com/chinmaya-dehury)) </li><li>Pelle Jakovits ([@pjakovits](https://github.com/pjakovits))</li><li>Satish Srirama [Satish Srirama](satish.srirama@ut.ee)</li></ul> |
 
 ## Integrated Development Environment
 

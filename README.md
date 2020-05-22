@@ -108,12 +108,12 @@ Furthermore, the defined workflows help understand and further refine the applic
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | A plugin that extends the orchestrator with the capability to control the life cycle of data pipelines, introducing the ability to automate the movement and transformation of data. | 
-| **Documentation** | WIP, [D5.5: Data Pipeline Orchestration I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.5-Data-Pipeline-Orchestration-I.pdf) |
+| **Documentation** |  [D5.5: Data Pipeline Orchestration I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.5-Data-Pipeline-Orchestration-I.pdf) |
 | **Stand-Alone Tutorial** | https://datapipeline-plugin.readthedocs.io/ | 
 | **Video**| https://www.youtube.com/watch?v=_6zTEj2ZJ54 |
 | **Repository** | <ul><li>https://github.com/radon-h2020/radon-datapipeline-plugin (Data pipeline plugin)</li><li>https://github.com/radon-h2020/demo-lambda-thumbgen-tosca-datapipeline (Data pipeline demo)</li></ul> |
 | **Licence**| [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0) |
-| **Contact**| <ul><li>Chinmaya Dehury [chinmaya.dehury@ut.ee](chinmaya.dehury@ut.ee)</li><li>Pelle Jakovits [pelle.jakovitsh@ut.ee](pelle.jakovitsh@ut.ee)</li><li>Satish Srirama [Satish Srirama](satish.srirama@ut.ee)</li></ul> |
+| **Contact**| <ul><li>Chinmaya Dehury ([@chinmaya-dehury](https://github.com/cankarm)) </li><li>Pelle Jakovits ([@pjakovits](https://github.com/cankarm))</li><li>Satish Srirama [Satish Srirama](satish.srirama@ut.ee)</li></ul> |
 
 ## Integrated Development Environment
 

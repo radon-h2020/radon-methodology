@@ -66,29 +66,17 @@ Furthermore, the defined workflows help understand and further refine the applic
 | **Licence**| License |
 | **Contact**| <ul><li>Lulai Zhu ([@zhululai](https://github.com/zhululai))</li><li>Giuliano Casale ([@gcasale](https://github.com/gcasale))</li></ul> |
 
-## Constraint Definition Language
 
-| Items | Contents | 
-| --- | --- |
-| **Short Description** | The Constraint Definition Language (CDL) provides functionality for the user to define CDL specifications, the space of potential extensions to the current RADON model, and the examples used by the Verification Tool (VT) for learning new constraints. | 
-| **Documentation** | WIP |
-| **Stand-Alone Tutorial** | WIP | 
-| **Video**| WIP |
-| **Repository** | WIP |
-| **Licence**| License |
-| **Contact**| <ul><li>Mark Law (mark.law09@imperial.ac.uk)</li><li>Alessandra Russo (a.russo@imperial.ac.uk)</li></ul> |
-
-
-## Verification Tool
+## Constraint Definition Language and Verification Tool
 
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The Verification Tool (VT) provides the functionality for verifying that the current RADON model conforms to the CDL specification defined by the CDL tool. The VT will be available as a plugin in the IDE, and will be supported by a “VT backend”, which will run in a container. In cases where the current RADON model does not conform to the CDL specification, the VT can be used to suggest corrections to the model. If the model does conform, the VT can be used to suggest improvements to it with respect to the preferences expressed as soft constraints in the CDL specification. The VT can also be used to find an optimal (preferred) completion of a partial RADON model, with respect to the CDL specification, and to learn new constraints for the CDL. | 
-| **Documentation** | WIP |
-| **Stand-Alone Tutorial** | WIP | 
-| **Video**| WIP |
+| **Documentation** | http://radon-h2020.eu/wp-content/uploads/2020/01/D4.1-Constraint-definition-language-I.pdf |
+| **Stand-Alone Tutorial** | https://radon-vt-documentation.readthedocs.io/ | 
+| **Video**| https://youtu.be/pJWetOzY2Zc |
 | **Repository** | WIP |
-| **Licence**| License |
+| **Licence**| Please fill in this form to request a license: https://imperial.eu.qualtrics.com/jfe/form/SV_1HthWM3xILQM6ih |
 | **Contact**| <ul><li>Mark Law (mark.law09@imperial.ac.uk)</li><li>Alessandra Russo (a.russo@imperial.ac.uk)</li></ul> |
 
 ## Continuous Testing Tool

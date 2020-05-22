@@ -107,7 +107,7 @@ Furthermore, the defined workflows help understand and further refine the applic
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | A plugin that extends the orchestrator with the capability to control the life cycle of data pipelines, introducing the ability to automate the movement and transformation of data. | 
+| **Short Description** | Data Pipeline plugin extends the orchestrator with the capability to control the life cycle of data pipelines, solving some of the technical issues related to transfering and securing data across heterogeneous cloud environments. | 
 | **Documentation** |  [D5.5: Data Pipeline Orchestration I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.5-Data-Pipeline-Orchestration-I.pdf) |
 | **Stand-Alone Tutorial** | https://datapipeline-plugin.readthedocs.io/ | 
 | **Video**| https://www.youtube.com/watch?v=_6zTEj2ZJ54 |

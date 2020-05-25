@@ -60,10 +60,10 @@ Furthermore, the defined workflows help understand and further refine the applic
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The decomposition tool is present to help RADON users in finding the optimal decomposition solution for an application based on the microservices architectural style and the serverless FaaS paradigm. It supports three typical usage scenarios: (1) architecture decomposition, (2) deployment optimization, (3) accuracy enhancement. | 
-| **Documentation** | WIP |
-| **Stand-Alone Tutorial** | WIP | 
-| **Video**| WIP |
-| **Repository** | WIP |
+| **Documentation** | http://radon-h2020.eu/wp-content/uploads/2020/01/D3.2-Decomposition-Tool-I.pdf |
+| **Stand-Alone Tutorial** | https://decomposition-tool.readthedocs.io/ | 
+| **Video**| https://youtu.be/ZHD0t8HK7K0 |
+| **Repository** | https://github.com/radon-h2020/radon-decomposition-tool |
 | **Licence**| License |
 | **Contact**| <ul><li>Lulai Zhu ([@zhululai](https://github.com/zhululai))</li><li>Giuliano Casale ([@gcasale](https://github.com/gcasale))</li></ul> |
 

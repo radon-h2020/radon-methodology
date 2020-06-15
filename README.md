@@ -125,8 +125,8 @@ Furthermore, the defined workflows help understand and further refine the applic
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
 | **Repository** | <ul><li>https://github.com/radon-h2020/radon-ide </li></ul> |
-| **Licence**| [Eclipse Public License, Version 1.0] (https://www.eclipse.org/legal/epl-v10.html) |
-| **Contact**| <ul><li>Stefania D'Agostini ([@sdagostini](https://github.com/sdagostini)</li></ul> |
+| **Licence**| Eclipse Public License, Version 1.0 (https://www.eclipse.org/legal/epl-v10.html) |
+| **Contact**| <ul><li>Stefania D'Agostini ([@sdagostini](https://github.com/sdagostini))</li></ul> |
 
 ## Template Library
 

@@ -46,7 +46,7 @@ Furthermore, the defined workflows help understand and further refine the applic
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The Defect Prediction tool  focuses on Infrastructure-as-Code (IaC) correctness. Recall that IaC is machine-readable code that manages and provisions infrastructure -- e.g., TOSCA or Ansible YAML files. The defect prediction tool helps RADON users to find suspicious defective Infrastructure-as-Code (IaC) scripts enabling DevOps operators to focus on such critical scripts before deployment and during Quality Assurance activities. | 
-| **Documentation** | WIP -- [D2.3 – Architecture & Integration Plan I](http://radon-h2020.eu/wp-content/uploads/2019/11/D2-3_Architecture-and-integration-plan-I.pdf) |
+| **Documentation** | https://radon-h2020.eu/wp-content/uploads/2020/07/D3.6-Defect-prediction-tool-I.pdf |
 | **Stand-Alone Tutorial** | https://radon-h2020.github.io/radon-defect-prediction-api/ | 
 | **Video**| https://tinyurl.com/y8mtyszm |
 | **Repositories** |<ul><li>[APIs](https://github.com/radon-h2020/radon-defect-prediction-api); </li><li>[Web Application](https://github.com/radon-h2020/radon-defect-prediction-web);</li><li>[Visual Studio Extension](https://github.com/radon-h2020/radon-defect-predictor-plugin);</li><li>[AnsibleMetrics](https://github.com/radon-h2020/radon-ansible-metrics);</li></ul> |

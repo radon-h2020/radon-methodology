@@ -162,8 +162,8 @@ Furthermore, the defined workflows help understand and further refine the applic
 | --- | --- |
 | **Short Description** | The delivery toolchain is a set of tools configured at one place with one goal - to deliver the application to the production site. To achieve the final step, delivery, with a success, a set of previous steps needs to be successfully accomplished. Delivery toolchain provides the single point of configuration management including CI/CD, monitoring and orchestration. | 
 | **Documentation** |  RADON Deliverables [D5.1](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.1-Runtime-Environment-1.pdf) |
-| **Stand-Alone Tutorial** | WIP | 
-| **Video**| WIP |
-| **Repository** | WIP |
+| **Stand-Alone Tutorial** | https://radon-h2020.github.io/radon-delivery-toolchain/ | 
+| **Video**| https://www.youtube.com/watch?v=rtMBcvVQdgI |
+| **Repository** | https://github.com/radon-h2020/radon-delivery-toolchain |
 | **Licence**|  Apache License, Version 2.0 |
 | **Contact**| <ul><li>Matija Cankar ([@cankarm](https://github.com/cankarm))</li></ul> |

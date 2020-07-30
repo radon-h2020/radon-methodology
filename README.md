@@ -2,6 +2,10 @@ This repository acts as a knowledge base related to the RADON methodology, conta
 
 Please check out the [RADON YouTube channel](https://www.youtube.com/channel/UCgoXX6JZ6bDqTxVBRm4KWnQ/videos) for videos!
 
+# Trying RADON alpha release
+
+An alpha release of the integrated open source RADON framework is now available! Please contact us to request access for free by [filling the form](https://docs.google.com/forms/d/1uwmzq8DHY-UIQB_iIASb9f6LRcnck4YvxU6PvXX-NS8/edit?urp=gmail_link).
+
 # Table of Contents
 * [RADON Architecture](#radon-architecture)
 * [RADON Actors and Stakeholders](#radon-actors-and-stakeholders)

@@ -4,7 +4,7 @@ Please check out the [RADON YouTube channel](https://www.youtube.com/channel/UCg
 
 # Trying RADON
 
-An alpha release of the integrated open source RADON framework is now available as of July 2020! Please contact us to request access for free by [filling the form](https://docs.google.com/forms/d/1uwmzq8DHY-UIQB_iIASb9f6LRcnck4YvxU6PvXX-NS8/edit?urp=gmail_link).
+An alpha release of the integrated open source RADON framework is now available as of July 2020! Please contact us to request access for free by [filling the form](https://docs.google.com/forms/d/e/1FAIpQLSd_W0mgO_GEiNf5yhc1GvSWcjI4qOROcR9yFMKiZsu-FBK-5g/viewform).
 
 # Table of Contents
 * [RADON Architecture](#radon-architecture)
@@ -139,7 +139,6 @@ Furthermore, the defined workflows help understand and further refine the applic
 | **Short Description** | The template library is a repository of application runtime management definitions including the blueprints, high-level system abstractions, application abstractions (including data pipeline components) and TOSCA language extensions. One of the specific parts of Template Library is the FaaS abstraction layer that holds the definitions required to deploy a particular application component to different cloud providers. | 
 | **Documentation** | https://template-library-radon.xlab.si |
 | **Stand-Alone Tutorial** | https://template-library-radon.xlab.si/examples.html | 
-| **Video**| WIP |
 | **Repository** | https://pypi.org/project/xopera-template-library/ |
 | **Licence**| License |
 | **Contact**| <ul><li>Matija Cankar ([@cankarm](https://github.com/cankarm))</li></ul>  |

@@ -4,7 +4,7 @@ Please check out the [RADON YouTube channel](https://www.youtube.com/channel/UCg
 
 # Trying RADON
 
-An alpha release of the integrated open source RADON framework is now available as of July 2020! Please contact us to request access for free by [filling the form](https://docs.google.com/forms/d/e/1FAIpQLSd_W0mgO_GEiNf5yhc1GvSWcjI4qOROcR9yFMKiZsu-FBK-5g/viewform).
+An alpha release of the integrated open source RADON framework is now available as of July 2020! Please contact us to request access for free by [filling the form](https://radon-h2020.eu/demo-homepage/).
 
 # Table of Contents
 * [RADON Architecture](#radon-architecture)

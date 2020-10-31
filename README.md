@@ -171,7 +171,7 @@ Furthermore, the defined workflows help understand and further refine the applic
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | The Function Hub is a services for uploading, storing and sharing reusable FaaS. | 
+| **Short Description** | The Function Hub is a services for uploading, storing and sharing reusable FaaS. In the context of the RADON framework, it is used when creating FaaS objects in GMT. The function will be fetched when a .csar file is generated. | 
 | **Documentation** | RADON Deliverables [D5.1](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.1-Runtime-Environment-1.pdf) |
 | **Stand-Alone Tutorial** | https://functionhub-cli.readthedocs.io | 
 | **Video**| Comming |

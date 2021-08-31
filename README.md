@@ -35,13 +35,13 @@ RADON intends to deliver a DevOps-inspired methodology. On that basis, RADON pro
 * QoS Engineer: responsibility for ensuring performance/reliability/security/privacy/access control properties of the application,
 * Release Manager: team leader that authorizes major changes and their release to production.
 
-For more information on RADON actors, please refer to the deliverable document [D2.1 - Initial Requirements and Baselines](http://radon-h2020.eu/wp-content/uploads/2019/07/D2.1-Initial-requirements-and-baselines.pdf)
+For more information on RADON actors, please refer to the deliverable document [D2.2 - Final Requirements](https://radon-h2020.eu/wp-content/uploads/2020/07/D2.2-Final-requirements.pdf)
 
 # RADON Methodology
 
 The RADON DevOps methodology consolidates the user workflow for using RADON tools and the DevOps paradigm for software delivery and evolution. In the context of a DevOps lifecycle, we have defined several workflows as abstractions to organize and present the possible interactions of the different tools within the RADON framework and with the identified actors. DevOps actors as described above are fundamental to reason about the existing development and operations roles and re-assign them for the continuous delivery of software in the context of RADON. 
 
-Furthermore, the defined workflows help understand and further refine the application development lifecycle with the RADON framework, considered as an iterative process involving Design, Development (Deployment) and Runtime.  The defined workflows will be described below.
+Furthermore, the defined workflows help understand and further refine the application development lifecycle with the RADON framework, considered as an iterative process involving Design, Development (Deployment) and Runtime.  The tools underpinning the defined workflows will be described below.
 
 # RADON Tools
 

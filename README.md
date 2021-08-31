@@ -2,9 +2,9 @@ This repository acts as a knowledge base related to the RADON methodology, conta
 
 Please check out the [RADON YouTube channel](https://www.youtube.com/channel/UCgoXX6JZ6bDqTxVBRm4KWnQ/videos) for videos!
 
-# Trying RADON
+# Introduction to RADON
 
-An alpha release of the integrated open source RADON framework is now available as of July 2020! Please contact us to request access for free by [filling the form](https://radon-h2020.eu/demo-homepage/).
+If you are new to the framework, the [RADON booklet](https://radon-h2020.eu/wp-content/uploads/2021/07/RADON-Booklet.pdf) offers an holistic summary of the project results in its impacts in the domain of its use cases.
 
 # Table of Contents
 * [RADON Architecture](#radon-architecture)
@@ -18,16 +18,16 @@ The RADON framework provides a set of components that realize a set of tools, mo
 
 ![#radon-architecture](RADON-Architecture.png)
 
-The Architecture Diagram depicts the connections among the RADON components. The design time components interact with each other and with the runtime components in order to design, prototype, deploy and test applications built on serverless FaaS. Such interaction(s) are defined by the [RADON Workflows](#radon-methodology) in the context of  the RADON methodology.
+The Architecture Diagram depicts the connections among the RADON components. The design time components interact with each other and with the runtime components in order to design, prototype, deploy and test applications built on serverless FaaS. Such interaction(s) are defined by the [RADON Workflows](https://radon-h2020.eu/wp-content/uploads/2021/07/RADON-Booklet.pdf) in the context of  the RADON methodology.
 
 In this context a particular role is played by the RADON IDE. This component is be based on [Eclipse Che](#https://www.eclipse.org/che/) and provides a multi-user development environment to access the RADON artifacts. As depicted in the Architecture diagram, the RADON IDE interacts also with an important component called the Template Library. This components offers access to reusable base types, abstractions and TOSCA extensions and make them available to the RADON tools, that require them to model a RADON application. Moreover, the RADON IDE  acts as the front-end of the RADON methodology, by enabling users to invoke RADON tools supporting both the design and runtime phases of application development.
 
 For more information on the RADON Architecture, please refer to the deliverable document 
-[D2.3 – Architecture & Integration Plan I](http://radon-h2020.eu/wp-content/uploads/2019/11/D2-3_Architecture-and-integration-plan-I.pdf)
+[D2.4 – Architecture & Integration Plan II](https://radon-h2020.eu/wp-content/uploads/2020/07/D2.4-Architecture-and-integration-plan-II.pdf)
 
 # RADON Actors and Stakeholders
 
-RADON intends to deliver a DevOps-inspired methodology. On that basis, RADON proposes to identify a few reference DevOps actors. A RADON actor defines a role -- not a single human or software -- therefore the same person can potentially act as multiple RADON actors and the same role could be split across multiple actors. The RADON actors are as follows:
+RADON delivers a DevOps-inspired methodology. On that basis, RADON proposes to identify a few reference DevOps actors. A RADON actor defines a role -- not a single human or software -- therefore the same person can potentially act as multiple RADON actors and the same role could be split across multiple actors. The RADON actors are as follows:
 
 * Software Designer: this actor is responsible of the application architecture and data lifecycle design.
 * Software Developer (Dev): responsible for business logic coding and testing.

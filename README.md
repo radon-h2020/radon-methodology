@@ -113,13 +113,16 @@ Furthermore, the defined workflows help understand and further refine the applic
 
 | Items | Contents | 
 | --- | --- |
-| **Short Description** | The orchestrator puts the application into the runtime environment, enforcing the state described by application blueprint (CSAR) onto the targeted provider(s). The common operations are deployment, scaling and cleanup or un-deploy and are executed on different target environment as staging, development and production.  | 
-| **Documentation** | https://xlab-si.github.io/xopera-docs/ |
+| **Short Description** | The orchestrator deploys the application into the runtime environment, enforcing the state described by application blueprint (CSAR) onto the targeted provider(s). The common operations are deployment, scaling and cleanup or un-deploy and are executed on different target environment as staging, development and production.  | 
+| **Documentation** | [User Guide and developers notes](https://xlab-si.github.io/xopera-docs/)/ RADON Deliverables: [D5.1](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.1-Runtime-Environment-1.pdf), [D5.2]() |
 | **Stand-Alone Tutorial** | https://xlab-si.github.io/xopera-docs/examples.html | 
-| **Video**| https://www.youtube.com/watch?v=cb1efi3wnpw |
-| **Repository** | https://github.com/radon-h2020/xopera-opera |
-| **Licence**|  [Apache License, Version 2.0](https://github.com/radon-h2020/xopera-opera/blob/master/LICENSE) |
+| **Video**| <ul><li> [xOpera SaaS and Template Library overview - YouTube](https://www.youtube.com/watch?v=0hpKJ_LBlk8)</li><li>  [xOpera SaaS with GUI - YouTube](https://www.youtube.com/watch?v=T4XviKWLc-A)  </li><li> [xOpera SaaS with Eclipse Che - YouTube](https://www.youtube.com/watch?v=SIiLOe5dSqc) </li> <li> [xOpera CLI example - YouTube](https://www.youtube.com/watch?v=cb1efi3wnpw) </li> </ul>|
+| **Source code and executables** | <ul><li> xOpera and xOpera API repository https://github.com/radon-h2020/xopera-opera </li> <li>xOpera CLI: https://pypi.org/project/opera/</li><li>xOpera API: https://pypi.org/project/opera-api/ </li><li>xOpera SaaS (proprietary) -> [Get in touch](https://saas-xopera.xlab.si/) </li></ul> |
+| **Licence**|   <ul><li> xOpera core [Apache License, Version 2.0](https://github.com/radon-h2020/xopera-opera/blob/master/LICENSE)  </li><li>xOpera SaaS -> [Get in touch](https://saas-xopera.xlab.si)  </li> </ul> |
 | **Contact**| <ul><li>Matija Cankar ([@cankarm](https://github.com/cankarm))</li></ul> |
+
+
+
 
 ## Data Pipeline Plugins
 
@@ -138,10 +141,11 @@ Furthermore, the defined workflows help understand and further refine the applic
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The template library is a repository of application runtime management definitions including the blueprints, high-level system abstractions, application abstractions (including data pipeline components) and TOSCA language extensions. One of the specific parts of Template Library is the FaaS abstraction layer that holds the definitions required to deploy a particular application component to different cloud providers. | 
-| **Documentation** | https://template-library-radon.xlab.si |
-| **Stand-Alone Tutorial** | https://template-library-radon.xlab.si/examples.html | 
-| **Repository** | https://pypi.org/project/xopera-template-library/ |
-| **Licence**| License |
+| **Documentation** | [User Guide](https://template-library-radon.xlab.si/docs/) / Deliverables: [D5.3](https://radon-h2020.eu/wp-content/uploads/2020/07/D5.3-Technology-Library.pdf), [D5.4]() |
+| **Stand-Alone Tutorial** | https://template-library-radon.xlab.si/docs/gui.html | 
+| **Video**| <ul><li> [xOpera SaaS and Template Library overview - YouTube](https://www.youtube.com/watch?v=0hpKJ_LBlk8)</li><li>  [Template Library Publishing Service - CLI - YouTube](https://www.youtube.com/watch?v=28eTwojw5ac) </li><li> [Template Library Publishing Service - Eclipse Che - YouTube](https://www.youtube.com/watch?v=vCjfZ4Iue0E) </li>  </ul>|
+| **Access and tools** | <ul><li>RADON Particles: https://github.com/radon-h2020/radon-particles</li><li>Template library GUI: https://template-library-radon.xlab.si/ </li> <li> Template Library CLI: https://pypi.org/project/xopera-template-library/ </li> <li>API Documentation: https://template-library-xopera.xlab.si/swagger/ </li>  </ul> |
+| **Licence**| <ul><li> RADON Particles - [Apache License, Version 2.0](https://github.com/radon-h2020/radon-particles/blob/master/LICENSE) </li> <li> Template Library Publishing System - [Get in touch](https://saas-xopera.xlab.si) </li></ul> |
 | **Contact**| <ul><li>Matija Cankar ([@cankarm](https://github.com/cankarm))</li></ul>  |
 
 ## Graphical Modeling Tool (Eclipse Winery)
@@ -161,7 +165,7 @@ Furthermore, the defined workflows help understand and further refine the applic
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The delivery toolchain is a set of tools configured at one place with one goal - to deliver the application to the production site. To achieve the final step, delivery, with a success, a set of previous steps needs to be successfully accomplished. Delivery toolchain provides the single point of configuration management including CI/CD, monitoring and orchestration. | 
-| **Documentation** |  RADON Deliverables [D5.1](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.1-Runtime-Environment-1.pdf) |
+| **Documentation** |  RADON Deliverables [D5.1](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.1-Runtime-Environment-1.pdf), [D5.2]() |
 | **Stand-Alone Tutorial** | https://radon-h2020.github.io/radon-delivery-toolchain/ | 
 | **Video**| https://www.youtube.com/watch?v=rtMBcvVQdgI |
 | **Repository** | https://github.com/radon-h2020/radon-delivery-toolchain |

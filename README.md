@@ -48,12 +48,12 @@ The table below depicts the RADON methodology, which is composed of six key RADO
 | RADON workflows | Roles | Tools |
 | --- | --- | --- |
 | [**The Entry-point: Application Development**](workflows/entry_point.md) | Software Developer<br/>Release Manager| Integrated Development Environment<br/>Graphical Modeling Tool<br/>Data Pipeline Plugin<br/>Function Hub<br/>Template Library<br/>Orchestrator |
-| [**Verification workflow**](workflows/verification_workflow.md) |Software Designer<br/>QoS Engineer | Verification Tool<br/>Graphical Modeling Tool<br/>Integrated Development Environment |
-| [**Decomposition workflow**](workflows/decomposition_workflow.md) |Software Designer<br/>Ops Engineer<br/>QoS Engineer |Decomposition Tool<br/>Graphical Modeling Tool<br/>Integrated Development Environment<br/>Monitoring Tool |
-| [**Defect Prediction workflow**](workflows/defect_prediction_workflow.md) | Software Developer<br/>Ops Engineer | Defect Prediction Tool<br/>Integrated Development Environment |
-| [**Continuous Testing workflow**](workflows/continuous_testing_workflow.md) | Software Developer<br/>Release Manager<br/>QoS Engineer | Continuous Testing Tool<br/>Integrated Development Environment<br/>Orchestrator<br/>Monitoring Tool |
-| [**Monitoring workflow**](workflows/monitoring_workflow.md) | Ops Engineer<br/>QoS Engineer | Monitoring Tool<br/>Integrated Development Environment<br/>Graphical Modeling Tool<br/>Orchestrator |
-| [**CI/CD workflow**](workflows/cicd_workflow.md) | Ops Engineer<br/>Release Manager | CI/CD Plugin<br/>Integrated Development Environment |
+| [**Verification Workflow**](workflows/verification_workflow.md) |Software Designer<br/>QoS Engineer | Verification Tool<br/>Graphical Modeling Tool<br/>Integrated Development Environment |
+| [**Decomposition Workflow**](workflows/decomposition_workflow.md) |Software Designer<br/>Ops Engineer<br/>QoS Engineer |Decomposition Tool<br/>Graphical Modeling Tool<br/>Integrated Development Environment<br/>Monitoring Tool |
+| [**Defect Prediction Workflow**](workflows/defect_prediction_workflow.md) | Software Developer<br/>Ops Engineer | Defect Prediction Tool<br/>Integrated Development Environment |
+| [**Continuous Testing Workflow**](workflows/continuous_testing_workflow.md) | Software Developer<br/>Release Manager<br/>QoS Engineer | Continuous Testing Tool<br/>Integrated Development Environment<br/>Orchestrator<br/>Monitoring Tool |
+| [**Monitoring Workflow**](workflows/monitoring_workflow.md) | Ops Engineer<br/>QoS Engineer | Monitoring Tool<br/>Integrated Development Environment<br/>Graphical Modeling Tool<br/>Orchestrator |
+| [**CI/CD Workflow**](workflows/cicd_workflow.md) | Ops Engineer<br/>Release Manager | CI/CD Plugin<br/>Integrated Development Environment |
 
 # RADON Tools
 

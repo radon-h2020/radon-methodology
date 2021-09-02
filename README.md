@@ -136,10 +136,10 @@ The table below depicts the RADON methodology, which is composed of six key RADO
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | Data Pipeline plugin extends the orchestrator with the capability to control the life cycle of data pipelines, solving some of the technical issues related to transfering and securing data across heterogeneous cloud environments.  For example to ensure that data encryption is turned on when data pipeline tasks are deployed across multiple clouds. | 
-| **Documentation** | [User Guide and Documentation](https://datapipeline-plugin.readthedocs.io/)  [D5.5: Data Pipeline Orchestration I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.5-Data-Pipeline-Orchestration-I.pdf)  [D5.6: Data Pipeline Orchestration II](https://radon-h2020.eu/public-deliverables/) |
+| **Documentation** | <ul><li> [User Guide and Documentation](https://datapipeline-plugin.readthedocs.io/) </li><li> [D5.5: Data Pipeline Orchestration I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.5-Data-Pipeline-Orchestration-I.pdf) </li><li> [D5.6: Data Pipeline Orchestration II](https://radon-h2020.eu/public-deliverables/) </li></ul> |
 | **Stand-Alone Tutorial** | https://datapipeline-plugin.readthedocs.io/ | 
-| **Video**| [Video Demo](https://www.youtube.com/watch?v=_6zTEj2ZJ54) [Data Pipeline Webinar](https://www.youtube.com/watch?v=Pt4z-ccSrJY) |
-| **Repository** | <ul><li>https://github.com/radon-h2020/radon-datapipeline-plugin (Data pipeline plugin)</li><li>https://github.com/radon-h2020/demo-lambda-thumbgen-tosca-datapipeline (Data pipeline demo)</li></ul> |
+| **Video**|<ul><li> [Video Demo](https://www.youtube.com/watch?v=_6zTEj2ZJ54) </li><li>[Data Pipeline Webinar](https://www.youtube.com/watch?v=Pt4z-ccSrJY) </li></ul>|
+| **Repository** | <ul><li>Data pipeline plugin: https://github.com/radon-h2020/radon-datapipeline-plugin</li><li>Data pipeline demo: https://github.com/radon-h2020/demo-lambda-thumbgen-tosca-datapipeline</li></ul> |
 | **Licence**| [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0) |
 | **Contact**| <ul><li>Chinmaya Dehury ([@chinmaya-dehury](https://github.com/chinmaya-dehury)) </li><li>Pelle Jakovits ([@pjakovits](https://github.com/pjakovits))</li><li>Satish Srirama [Satish Srirama](satish.srirama@ut.ee)</li></ul> |
 

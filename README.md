@@ -68,7 +68,7 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 | **Stand-Alone Tutorial** | https://radon-ide.readthedocs.io/en/latest/ | 
 | **Video**| https://www.youtube.com/watch?v=__EumXU9ZNE |
 | **Repository** | <ul><li>https://github.com/radon-h2020/radon-ide </li></ul> |
-| **Latest DevFile** | https://raw.githubusercontent.com/radon-h2020/radon-ide/master/devfiles/radon/v0.0.3/devfile.yaml |
+| **Latest DevFile** | https://raw.githubusercontent.com/radon-h2020/radon-ide/master/devfiles/radon/latest/devfile.yaml |
 | **Licence**| Eclipse Public License, Version 1.0 (https://www.eclipse.org/legal/epl-v10.html) |
 | **Contact**| <ul><li>Stefania D'Agostini ([@sdagostini](https://github.com/sdagostini))</li></ul> |
 

@@ -55,6 +55,8 @@ The table below depicts the RADON methodology, which is composed of six key RADO
 | [**Monitoring Workflow**](workflows/monitoring_workflow.md) | Ops Engineer<br/>QoS Engineer | Monitoring Tool<br/>Integrated Development Environment<br/>Graphical Modeling Tool<br/>Orchestrator |
 | [**CI/CD Workflow**](workflows/cicd_workflow.md) | Ops Engineer<br/>Release Manager | CI/CD Plugin<br/>Integrated Development Environment |
 
+Full details about the methodology can be found in [D3.1 – RADON methodology](https://radon-h2020.eu/wp-content/uploads/2021/09/D3.1-RADON-methodology.pdf).
+
 # RADON Tools
 
 ## Integrated Development Environment
@@ -75,7 +77,7 @@ The table below depicts the RADON methodology, which is composed of six key RADO
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The Defect Prediction tool focuses on Infrastructure-as-Code (IaC) correctness. Recall that IaC is machine-readable code that manages and provisions infrastructure -- e.g., TOSCA or Ansible YAML files. The defect prediction tool helps RADON users to find suspicious defective Infrastructure-as-Code (IaC) scripts enabling DevOps operators to focus on such critical scripts before deployment and during Quality Assurance activities. | 
-| **Documentation** | https://radon-h2020.eu/wp-content/uploads/2020/07/D3.6-Defect-prediction-tool-I.pdf |
+| **Documentation** | [D3.6 – Defect prediction tool I](https://radon-h2020.eu/wp-content/uploads/2020/07/D3.6-Defect-prediction-tool-I.pdf) <br/> [D3.7 – Defect prediction tool II](https://radon-h2020.eu/wp-content/uploads/2021/09/D3.7-Defect-prediction-tool-II.pdf)|
 | **Stand-Alone Tutorial** | https://radon-h2020.github.io/radon-defect-prediction-cli/ | 
 | **Video**| <ul><li>Tool teaser: https://www.youtube.com/watch?v=SMf1XSGvoVU </li><li>Webinar: https://www.youtube.com/watch?v=qcs0L-Ix-Qw</li><li>Tool demo: https://www.youtube.com/watch?v=qcs0L-Ix-Qw&t=1168s</li></ul>|
 | **Repositories** |<ul><li>[DEFUSE](https://github.com/radon-h2020/radon-defuse) </li> <li>[DEFUSE GitHub Action](https://github.com/radon-h2020/radon-defuse-action)</li>  <li>[CLI](https://github.com/radon-h2020/radon-defect-prediction-cli) </li><li>[Plugin: VSC extension](https://github.com/radon-h2020/radon-defect-predictor-plugin)</li><li>[RepositoryMiner](https://github.com/radon-h2020/radon-repository-miner)</li><li>[AnsibleMetrics](https://github.com/radon-h2020/radon-ansible-metrics)</li><li>[ToscaMetrics](https://github.com/radon-h2020/radon-tosca-metrics)</li></ul> |  

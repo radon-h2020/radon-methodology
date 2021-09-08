@@ -107,7 +107,7 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 | **Video**| https://drive.google.com/file/d/1PtbZxGtNW-0oyKE9Js21rNiB9O8H08nI/view?usp=sharing |
 | **Repository** | https://github.com/radon-h2020/radon-monitoring-tool |
 | **Licence**| License |
-| **Contact**| <ul><li>Anestis Sidiropoulos ([@sydkbc](https://github.com/sydkbc))</li></ul> |
+| **Contact**| <ul><li>Anestis Sidiropoulos ([@sydkbc](https://github.com/sydkbc))</li><li>Giorgos Giotis ([@giopnd](https://github.com/giopnd))</li></ul> | 
 
 ## Constraint Definition Language and Verification Tool
 

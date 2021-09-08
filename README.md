@@ -22,7 +22,7 @@ The Architecture Diagram depicts the connections among the RADON components. The
 
 In this context a particular role is played by the RADON IDE. This component is be based on [Eclipse Che](#https://www.eclipse.org/che/) and provides a multi-user development environment to access the RADON artifacts. As depicted in the Architecture diagram, the RADON IDE interacts also with an important component called the Template Library. This components offers access to reusable base types, abstractions and TOSCA extensions and make them available to the RADON tools, that require them to model a RADON application. Moreover, the RADON IDE acts as the front-end of the RADON methodology, by enabling users to invoke RADON tools supporting both the design and runtime phases of application development.
 
-For more information on the RADON Architecture, please refer to the deliverable document 
+For more information on the RADON Architecture, please refer to the deliverable document
 [D2.4 – Architecture & Integration Plan II](https://radon-h2020.eu/wp-content/uploads/2020/07/D2.4-Architecture-and-integration-plan-II.pdf)
 
 # RADON Actors and Stakeholders
@@ -39,7 +39,7 @@ For more information on RADON actors, please refer to the deliverable document [
 
 # RADON Methodology
 
-The RADON DevOps methodology consolidates the user workflow for using RADON tools and the DevOps paradigm for software delivery and evolution. In the context of a DevOps lifecycle, we have defined several workflows as abstractions to organize and present the possible interactions of the different tools within the RADON framework and with the identified actors. DevOps actors as described above are fundamental to reason about the existing development and operations roles and re-assign them for the continuous delivery of software in the context of RADON. 
+The RADON DevOps methodology consolidates the user workflow for using RADON tools and the DevOps paradigm for software delivery and evolution. In the context of a DevOps lifecycle, we have defined several workflows as abstractions to organize and present the possible interactions of the different tools within the RADON framework and with the identified actors. DevOps actors as described above are fundamental to reason about the existing development and operations roles and re-assign them for the continuous delivery of software in the context of RADON.
 
 ![#radon-methodology](RADON-methodology.png)
 
@@ -61,11 +61,11 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 
 ## Integrated Development Environment
 
-| Items | Contents | 
+| Items | Contents |
 | --- | --- |
-| **Short Description** | The RADON IDE is based on Eclipse Che, and provides standard functionalities to support development activities (e.g. debugging functionalities and error checking capabilities) along with specific functionalities to achieve the RADON needs. It provides a shared space where different teams can access the RADON artifacts according to their authorizations and an access point for the interactions with the tools involved in the RADON architecture. | 
+| **Short Description** | The RADON IDE is based on Eclipse Che, and provides standard functionalities to support development activities (e.g. debugging functionalities and error checking capabilities) along with specific functionalities to achieve the RADON needs. It provides a shared space where different teams can access the RADON artifacts according to their authorizations and an access point for the interactions with the tools involved in the RADON architecture. |
 | **Documentation** | [D2.3 – Architecture & Integration Plan I](http://radon-h2020.eu/wp-content/uploads/2019/11/D2-3_Architecture-and-integration-plan-I.pdf) <br/> [D2.4 - Architecture & Integration Plan II](https://radon-h2020.eu/wp-content/uploads/2020/07/D2.4-Architecture-and-integration-plan-II.pdf) <br/> [D2.6 - RADON Integrated Framework I](https://radon-h2020.eu/wp-content/uploads/2020/07/D2.6-RADON-integrated-framework-I.pdf) <br/> [D2.7 - RADON Integrated Framework II](https://radon-h2020.eu/wp-content/uploads/2021/09/D2.7-RADON-integrated-framework-II.pdf) |
-| **Stand-Alone Tutorial** | https://radon-ide.readthedocs.io/en/latest/ | 
+| **Stand-Alone Tutorial** | https://radon-ide.readthedocs.io/en/latest/ |
 | **Video**| https://www.youtube.com/watch?v=__EumXU9ZNE |
 | **Repository** | <ul><li>https://github.com/radon-h2020/radon-ide </li></ul> |
 | **Latest DevFile** | https://raw.githubusercontent.com/radon-h2020/radon-ide/master/devfiles/radon/latest/devfile.yaml |
@@ -74,11 +74,11 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 
 ## Defect Prediction Tool
 
-| Items | Contents | 
+| Items | Contents |
 | --- | --- |
-| **Short Description** | The Defect Prediction tool focuses on Infrastructure-as-Code (IaC) correctness. Recall that IaC is machine-readable code that manages and provisions infrastructure -- e.g., TOSCA or Ansible YAML files. The defect prediction tool helps RADON users to find suspicious defective Infrastructure-as-Code (IaC) scripts enabling DevOps operators to focus on such critical scripts before deployment and during Quality Assurance activities. | 
+| **Short Description** | The Defect Prediction tool focuses on Infrastructure-as-Code (IaC) correctness. Recall that IaC is machine-readable code that manages and provisions infrastructure -- e.g., TOSCA or Ansible YAML files. The defect prediction tool helps RADON users to find suspicious defective Infrastructure-as-Code (IaC) scripts enabling DevOps operators to focus on such critical scripts before deployment and during Quality Assurance activities. |
 | **Documentation** | [D3.6 – Defect Prediction Tool I](https://radon-h2020.eu/wp-content/uploads/2020/07/D3.6-Defect-prediction-tool-I.pdf) <br/> [D3.7 – Defect Prediction Tool II](https://radon-h2020.eu/wp-content/uploads/2021/09/D3.7-Defect-prediction-tool-II.pdf)|
-| **Stand-Alone Tutorial** | https://radon-h2020.github.io/radon-defect-prediction-cli/ | 
+| **Stand-Alone Tutorial** | https://radon-h2020.github.io/radon-defect-prediction-cli/ |
 | **Video**| <ul><li>Tool teaser: https://www.youtube.com/watch?v=SMf1XSGvoVU </li><li>Webinar: https://www.youtube.com/watch?v=qcs0L-Ix-Qw</li><li>Tool demo: https://www.youtube.com/watch?v=qcs0L-Ix-Qw&t=1168s</li></ul>|
 | **Repositories** |<ul><li>[DEFUSE](https://github.com/radon-h2020/radon-defuse) </li> <li>[DEFUSE GitHub Action](https://github.com/radon-h2020/radon-defuse-action)</li>  <li>[CLI](https://github.com/radon-h2020/radon-defect-prediction-cli) </li><li>[Plugin: VSC extension](https://github.com/radon-h2020/radon-defect-predictor-plugin)</li><li>[RepositoryMiner](https://github.com/radon-h2020/radon-repository-miner)</li><li>[AnsibleMetrics](https://github.com/radon-h2020/radon-ansible-metrics)</li><li>[ToscaMetrics](https://github.com/radon-h2020/radon-tosca-metrics)</li></ul> |  
 | **Docs** |<ul><li>[CLI](https://radon-h2020.github.io/radon-defect-prediction-cli/)</li><li>[APIs](https://radon-h2020.github.io/radon-defect-prediction-api) <li>[AnsibleMetrics](https://radon-h2020.github.io/radon-ansible-metrics)</li></ul> |
@@ -87,23 +87,23 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 
 ## Decomposition Tool
 
-| Items | Contents | 
+| Items | Contents |
 | --- | --- |
-| **Short Description** | The decomposition tool is present to help RADON users in finding the optimal decomposition solution for an application based on the microservices architectural style and the serverless FaaS paradigm. It supports three typical usage scenarios: (1) architecture decomposition, (2) deployment optimization, (3) accuracy enhancement. | 
-| **Documentation** | [D3.2 – Decomposition Tool I](http://radon-h2020.eu/wp-content/uploads/2020/01/D3.2-Decomposition-Tool-I.pdf) <br/> [D3.3 – Decomposition Tool II](https://radon-h2020.eu/public-deliverables/)|
-| **Stand-Alone Tutorial** | https://decomposition-tool.readthedocs.io/ | 
+| **Short Description** | The decomposition tool is present to help RADON users in finding the optimal decomposition solution for an application based on the microservices architectural style and the serverless FaaS paradigm. It supports three typical usage scenarios: (1) architecture decomposition, (2) deployment optimization, (3) accuracy enhancement, (4) assignment/consolidation. |
+| **Documentation** | [D3.2 – Decomposition Tool I](http://radon-h2020.eu/wp-content/uploads/2020/01/D3.2-Decomposition-Tool-I.pdf) <br/> [D3.3 – Decomposition Tool II](http://radon-h2020.eu/wp-content/uploads/2021/09/D3.3-Decomposition-Tool-II.pdf)|
+| **Stand-Alone Tutorial** | https://decomposition-tool.readthedocs.io/ |
 | **Video**| https://youtu.be/ZHD0t8HK7K0 |
-| **Repository** | https://github.com/radon-h2020/radon-decomposition-tool |
-| **Licence**| License |
+| **Repository** | <ul><li>https://github.com/radon-h2020/radon-decomposition-tool</li><li>https://github.com/radon-h2020/radon-decomposition-plugin</li><li>https://github.com/radon-h2020/radon-decomposition-enhancement</li><li>https://github.com/radon-h2020/radon-decomposition-interference</li></ul> |
+| **Licence**| [Imperial College's Intellectual Property](https://www.imperial.tech/available-technologies/serverless-optimisation-tool/) |
 | **Contact**| <ul><li>Lulai Zhu ([@zhululai](https://github.com/zhululai))</li><li>Giuliano Casale ([@gcasale](https://github.com/gcasale))</li></ul> |
 
 ## Constraint Definition Language and Verification Tool
 
-| Items | Contents | 
+| Items | Contents |
 | --- | --- |
-| **Short Description** | The Verification Tool (VT) provides the functionality for verifying that the current RADON model conforms to the CDL specification defined by the CDL tool. The VT will be available as a plugin in the IDE, and will be supported by a “VT backend”, which will run in a container. In cases where the current RADON model does not conform to the CDL specification, the VT can be used to suggest corrections to the model. If the model does conform, the VT can be used to suggest improvements to it with respect to the preferences expressed as soft constraints in the CDL specification. The VT can also be used to find an optimal (preferred) completion of a partial RADON model, with respect to the CDL specification, and to learn new constraints for the CDL. | 
+| **Short Description** | The Verification Tool (VT) provides the functionality for verifying that the current RADON model conforms to the CDL specification defined by the CDL tool. The VT will be available as a plugin in the IDE, and will be supported by a “VT backend”, which will run in a container. In cases where the current RADON model does not conform to the CDL specification, the VT can be used to suggest corrections to the model. If the model does conform, the VT can be used to suggest improvements to it with respect to the preferences expressed as soft constraints in the CDL specification. The VT can also be used to find an optimal (preferred) completion of a partial RADON model, with respect to the CDL specification, and to learn new constraints for the CDL. |
 | **Documentation** | [D4.1 - Constraint Definition Language I](http://radon-h2020.eu/wp-content/uploads/2020/01/D4.1-Constraint-definition-language-I.pdf) <br/> [D4.2 - Constraint Definition Language II](https://radon-h2020.eu/public-deliverables/) |
-| **Stand-Alone Tutorial** | https://radon-vt-documentation.readthedocs.io/ | 
+| **Stand-Alone Tutorial** | https://radon-vt-documentation.readthedocs.io/ |
 | **Video**| https://youtu.be/pJWetOzY2Zc |
 | **Repository** | https://github.com/radon-h2020/radon-verification-tool |
 | **Licence**| Please fill in this form to request a license: https://imperial.eu.qualtrics.com/jfe/form/SV_1HthWM3xILQM6ih |
@@ -123,11 +123,11 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 
 ## Orchestrator
 
-| Items | Contents | 
+| Items | Contents |
 | --- | --- |
-| **Short Description** | The orchestrator deploys the application into the runtime environment, enforcing the state described by application blueprint (CSAR) onto the targeted provider(s). The common operations are deployment, scaling and cleanup or un-deploy and are executed on different target environment as staging, development and production. | 
+| **Short Description** | The orchestrator deploys the application into the runtime environment, enforcing the state described by application blueprint (CSAR) onto the targeted provider(s). The common operations are deployment, scaling and cleanup or un-deploy and are executed on different target environment as staging, development and production. |
 | **Documentation** | [User Guide and developers notes](https://xlab-si.github.io/xopera-docs/) <br/> [D5.1 - Runtime Environment I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.1-Runtime-Environment-1.pdf) <br/> [D5.2 - Runtime environment II](https://radon-h2020.eu/public-deliverables/) |
-| **Stand-Alone Tutorial** | https://xlab-si.github.io/xopera-docs/examples.html | 
+| **Stand-Alone Tutorial** | https://xlab-si.github.io/xopera-docs/examples.html |
 | **Video**| <ul><li> [xOpera SaaS and Template Library overview - YouTube](https://www.youtube.com/watch?v=0hpKJ_LBlk8)</li><li> [xOpera SaaS with GUI - YouTube](https://www.youtube.com/watch?v=T4XviKWLc-A) </li><li> [xOpera SaaS with Eclipse Che - YouTube](https://www.youtube.com/watch?v=SIiLOe5dSqc) </li> <li> [xOpera CLI example - YouTube](https://www.youtube.com/watch?v=cb1efi3wnpw) </li> </ul>|
 | **Source code and executables** | <ul><li> xOpera and xOpera API repository https://github.com/radon-h2020/xopera-opera </li> <li>xOpera CLI: https://pypi.org/project/opera/</li><li>xOpera API: https://pypi.org/project/opera-api/ </li><li>xOpera SaaS (proprietary) -> [Get in touch](https://saas-xopera.xlab.si/) </li></ul> |
 | **Licence**|  <ul><li> xOpera core [Apache License, Version 2.0](https://github.com/radon-h2020/xopera-opera/blob/master/LICENSE) </li><li>xOpera SaaS -> [Get in touch](https://saas-xopera.xlab.si) </li> </ul> |
@@ -135,11 +135,11 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 
 ## Data Pipeline Plugins
 
-| Items | Contents | 
+| Items | Contents |
 | --- | --- |
-| **Short Description** | Data Pipeline plugin extends the orchestrator with the capability to control the life cycle of data pipelines, solving some of the technical issues related to transfering and securing data across heterogeneous cloud environments.  For example to ensure that data encryption is turned on when data pipeline tasks are deployed across multiple clouds. | 
+| **Short Description** | Data Pipeline plugin extends the orchestrator with the capability to control the life cycle of data pipelines, solving some of the technical issues related to transfering and securing data across heterogeneous cloud environments.  For example to ensure that data encryption is turned on when data pipeline tasks are deployed across multiple clouds. |
 | **Documentation** | [User Guide and Documentation](https://datapipeline-plugin.readthedocs.io/) <br/> [D5.5: Data Pipeline Orchestration I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.5-Data-Pipeline-Orchestration-I.pdf) <br/> [D5.6: Data Pipeline Orchestration II](https://radon-h2020.eu/public-deliverables/) |
-| **Stand-Alone Tutorial** | <ul><li> [Tutorial in the Documentation page](https://datapipeline-plugin.readthedocs.io/)  </li><li> [Hands-on Tutorial in Github](https://github.com/radon-h2020/demo-lambda-thumbgen-tosca-datapipeline)</li></ul> | 
+| **Stand-Alone Tutorial** | <ul><li> [Tutorial in the Documentation page](https://datapipeline-plugin.readthedocs.io/)  </li><li> [Hands-on Tutorial in Github](https://github.com/radon-h2020/demo-lambda-thumbgen-tosca-datapipeline)</li></ul> |
 | **Video**|<ul><li> [Video Demo](https://www.youtube.com/watch?v=_6zTEj2ZJ54) </li><li>[Data Pipeline Webinar](https://www.youtube.com/watch?v=Pt4z-ccSrJY) </li></ul>|
 | **Repository** | <ul><li>Data pipeline plugin: https://github.com/radon-h2020/radon-datapipeline-plugin</li><li>Data pipeline demo: https://github.com/radon-h2020/demo-lambda-thumbgen-tosca-datapipeline</li></ul> |
 | **Licence**| [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0) |
@@ -147,11 +147,11 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 
 ## Template Library
 
-| Items | Contents | 
+| Items | Contents |
 | --- | --- |
-| **Short Description** | The template library is a repository of application runtime management definitions including the blueprints, high-level system abstractions, application abstractions (including data pipeline components) and TOSCA language extensions. One of the specific parts of Template Library is the FaaS abstraction layer that holds the definitions required to deploy a particular application component to different cloud providers. | 
+| **Short Description** | The template library is a repository of application runtime management definitions including the blueprints, high-level system abstractions, application abstractions (including data pipeline components) and TOSCA language extensions. One of the specific parts of Template Library is the FaaS abstraction layer that holds the definitions required to deploy a particular application component to different cloud providers. |
 | **Documentation** | [User Guide](https://template-library-radon.xlab.si/docs/) <br/> [D5.3 - Technology Library I](https://radon-h2020.eu/wp-content/uploads/2020/07/D5.3-Technology-Library.pdf) <br/> [D5.4 - Technology Library II](https://radon-h2020.eu/wp-content/uploads/2021/09/D5.4-Technology-Library-II.pdf) |
-| **Stand-Alone Tutorial** | https://template-library-radon.xlab.si/docs/gui.html | 
+| **Stand-Alone Tutorial** | https://template-library-radon.xlab.si/docs/gui.html |
 | **Video**| <ul><li> [xOpera SaaS and Template Library overview - YouTube](https://www.youtube.com/watch?v=0hpKJ_LBlk8)</li><li> [Template Library Publishing Service - CLI - YouTube](https://www.youtube.com/watch?v=28eTwojw5ac) </li><li> [Template Library Publishing Service - Eclipse Che - YouTube](https://www.youtube.com/watch?v=vCjfZ4Iue0E) </li> </ul>|
 | **Access and tools** | <ul><li>RADON Particles: https://github.com/radon-h2020/radon-particles</li><li>Template library GUI: https://template-library-radon.xlab.si/ </li> <li> Template Library CLI: https://pypi.org/project/xopera-template-library/ </li> <li>API Documentation: https://template-library-xopera.xlab.si/swagger/ </li> </ul> |
 | **Licence**| <ul><li> RADON Particles - [Apache License, Version 2.0](https://github.com/radon-h2020/radon-particles/blob/master/LICENSE) </li> <li> Template Library Publishing System - [Get in touch](https://saas-xopera.xlab.si) </li></ul> |
@@ -159,11 +159,11 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 
 ## Graphical Modeling Tool (Eclipse Winery)
 
-| Items | Contents | 
+| Items | Contents |
 | --- | --- |
-| **Short Description** | The Graphical Modeling Tool (GMT) is developed based on Eclipse Winery, which is a web-based environment to graphically model TOSCA-based application topologies. It includes (i) a component to manage TOSCA types and templates, (ii) a Topology Modeler that enables to graphically compose application topologies and specify configuration properties, and (iii) a file-based backend to store, import, and export TOSCA entities. | 
+| **Short Description** | The Graphical Modeling Tool (GMT) is developed based on Eclipse Winery, which is a web-based environment to graphically model TOSCA-based application topologies. It includes (i) a component to manage TOSCA types and templates, (ii) a Topology Modeler that enables to graphically compose application topologies and specify configuration properties, and (iii) a file-based backend to store, import, and export TOSCA entities. |
 | **Documentation** | [User Guide](https://winery.readthedocs.io/) <br/> [D4.3 - RADON Models I](http://radon-h2020.eu/wp-content/uploads/2019/11/D4.3-RADON-Models-I.pdf) <br/> [D4.4 - RADON Models II](https://radon-h2020.eu/wp-content/uploads/2020/07/D4.4-RADON-Models-II.pdf) <br/> [D4.5 - Graphical Modelling Tool I](http://radon-h2020.eu/wp-content/uploads/2020/01/D4.5-Graphical-Modelling-Tools.pdf) |
-| **Stand-Alone Tutorial** | [Getting Started](https://winery.readthedocs.io/en/latest/user/getting-started.html) | 
+| **Stand-Alone Tutorial** | [Getting Started](https://winery.readthedocs.io/en/latest/user/getting-started.html) |
 | **Video**| [Link](https://youtu.be/xEjarBWcdK0?t=81) |
 | **Repository** | <https://github.com/radon-h2020/winery> (fork) / <https://github.com/eclipse/winery> |
 | **Licence**| Dual licensed under the Apache License 2.0 and Eclipse Public License 2.0. |
@@ -171,11 +171,11 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 
 ## Delivery Toolchain
 
-| Items | Contents | 
+| Items | Contents |
 | --- | --- |
-| **Short Description** | The delivery toolchain is a set of tools configured at one place with one goal - to deliver the application to the production site. To achieve the final step, delivery, with a success, a set of previous steps needs to be successfully accomplished. Delivery toolchain provides the single point of configuration management including CI/CD, monitoring and orchestration. | 
+| **Short Description** | The delivery toolchain is a set of tools configured at one place with one goal - to deliver the application to the production site. To achieve the final step, delivery, with a success, a set of previous steps needs to be successfully accomplished. Delivery toolchain provides the single point of configuration management including CI/CD, monitoring and orchestration. |
 | **Documentation** | [D5.1 - Runtime Environment I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.1-Runtime-Environment-1.pdf) <br/> [D5.2 - Runtime Environment II](https://radon-h2020.eu/public-deliverables/) |
-| **Stand-Alone Tutorial** | https://radon-h2020.github.io/radon-delivery-toolchain/ | 
+| **Stand-Alone Tutorial** | https://radon-h2020.github.io/radon-delivery-toolchain/ |
 | **Video**| https://www.youtube.com/watch?v=rtMBcvVQdgI |
 | **Repository** | https://github.com/radon-h2020/radon-delivery-toolchain |
 | **Licence**| Apache License, Version 2.0 |
@@ -183,13 +183,12 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 
 ## Function Hub
 
-| Items | Contents | 
+| Items | Contents |
 | --- | --- |
-| **Short Description** | The Function Hub is a services for uploading, storing and sharing reusable FaaS. In the context of the RADON framework, it is used when creating FaaS objects in GMT. The function will be fetched when a .csar file is generated. | 
+| **Short Description** | The Function Hub is a services for uploading, storing and sharing reusable FaaS. In the context of the RADON framework, it is used when creating FaaS objects in GMT. The function will be fetched when a .csar file is generated. |
 | **Documentation** | [D5.1 - Runtime Environment I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.1-Runtime-Environment-1.pdf) <br/> [D5.2 - Runtime Environment II](https://radon-h2020.eu/public-deliverables/) |
-| **Stand-Alone Tutorial** | https://functionhub-cli.readthedocs.io | 
+| **Stand-Alone Tutorial** | https://functionhub-cli.readthedocs.io |
 | **Video**| Comming |
 | **Repository** | https://github.com/radon-h2020/radon-functionhub-client |
 | **Licence**| CC BY-NC-ND 3.0 |
 | **Contact**| <ul><li> Hans Georg Næsheim ([@naesheim](https://github.com/naesheim))</li></ul> |
-

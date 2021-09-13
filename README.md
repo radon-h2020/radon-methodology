@@ -97,6 +97,18 @@ Full details about the methodology can be found in [D3.1 – RADON methodology](
 | **Licence**| [Imperial College's Intellectual Property](https://www.imperial.tech/available-technologies/serverless-optimisation-tool/) |
 | **Contact**| <ul><li>Lulai Zhu ([@zhululai](https://github.com/zhululai))</li><li>Giuliano Casale ([@gcasale](https://github.com/gcasale))</li></ul> |
 
+## Monitoring Tool
+
+| Items | Contents | 
+| --- | --- |
+| **Short Description** | The Monitoring Tool offers the capability to monitor serverless functions and obtain monitoring metrics through the automatic creation of personalized, user-proprietary Monitoring dashboards. In addition, the tool supports the generation of Alerts and the triggering of resource scalling events, leveraging the policy feature of RADON. | 
+| **Documentation** | [D5.1 - Runtime Environment I](http://radon-h2020.eu/wp-content/uploads/2020/01/D5.1-Runtime-Environment-1.pdf) <br/> [D5.2 - Runtime Environment II](https://radon-h2020.eu/public-deliverables/) |
+| **Stand-Alone Tutorial** | https://drive.google.com/file/d/1PtbZxGtNW-0oyKE9Js21rNiB9O8H08nI/view?usp=sharing | 
+| **Video**| https://www.youtube.com/watch?v=VDoVZ5_TTwE |
+| **Repository** | https://github.com/radon-h2020/radon-monitoring-tool |
+| **Licence**| License |
+| **Contact**| <ul><li>Anestis Sidiropoulos ([@sydkbc](https://github.com/sydkbc))</li><li>Giorgos Giotis ([@giopnd](https://github.com/giopnd))</li></ul> | 
+
 ## Constraint Definition Language and Verification Tool
 
 | Items | Contents |
